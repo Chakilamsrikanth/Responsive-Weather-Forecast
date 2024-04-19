@@ -17,3 +17,18 @@ This project is built using modern web technologies, including:
 - **HTML5**: Provides the structure and foundation for the project's web pages.
 - **CSS**: Stylesheets are utilized to design and layout the elements, ensuring a visually appealing interface.
 - **JavaScript**: Powers the interactive elements and dynamic animations, bringing the weather forecast to life.
+
+**Sample Screenshots:**
+
+<p align="center">
+<img width="913" alt="1" src="https://github.com/Chakilamsrikanth/Responsive-Weather-Forecast/assets/147283839/441719e4-2b5b-42d8-b164-ae06f5c55fab">
+<img width="912" alt="2" src="https://github.com/Chakilamsrikanth/Responsive-Weather-Forecast/assets/147283839/0b30bf5c-3ae1-467b-a3e1-37e44b881403">
+<img width="913" alt="3" src="https://github.com/Chakilamsrikanth/Responsive-Weather-Forecast/assets/147283839/03ed812e-3000-43e5-bb74-64018524458d">
+<img width="916" alt="4" src="https://github.com/Chakilamsrikanth/Responsive-Weather-Forecast/assets/147283839/7c3104e0-d185-476d-ad9e-6024257008f1">
+</p>
+
+**Link:**
+
+
+
+
